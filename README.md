@@ -1,4 +1,1 @@
-To run the application...
-run npm install 
-To run test using jest.jest
-npm jest
+To run the application run...npm install...To run test using jest.js...npm jest
